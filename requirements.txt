@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+celery
+redis
+openai
+whisper
+moviepy
+pillow
+numpy
+requests
+python-multipart
